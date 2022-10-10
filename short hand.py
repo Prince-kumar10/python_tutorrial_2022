@@ -1,0 +1,5 @@
+print("Enter the a ")
+a = input()
+print("Enter the b")
+b = input()
+print("B A se bada ha bhai")if a>b else print ("A B se bada hai bhai")
